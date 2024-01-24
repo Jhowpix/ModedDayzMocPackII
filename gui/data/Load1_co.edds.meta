@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{32FA3093EB7FCC9E}Moc_Load/gui/data/Load1_co.edds"
+ Author "jhowpix"
+ ChangeDate 1847291741
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "Load1_co.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
